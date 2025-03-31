@@ -1,9 +1,7 @@
 # Detection-Algorithms (Master's Degree Projects)
 
-Project focuses onc omparsion of detection algorithms such as:
-    - YOLOv5, v8, v11
-    - EfficientDet
-    - DETR
+Project focuses on comparsion of detection algorithms such as: YOLOv5-8-11, EfficientDet and DETR. 
+Also all trained algorithms are implemented on the raspberry pi 5 with additional AI HAT with 26 TOPS.
 
 # Used repositories 
 * YOLO
