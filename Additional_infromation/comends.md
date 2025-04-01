@@ -56,4 +56,3 @@ python3 --version
     - wsl -d <nazwa_dystrybucji>
     - wsl -d Ubuntu
     - wsl --install -d Ubuntu-20.04
-
