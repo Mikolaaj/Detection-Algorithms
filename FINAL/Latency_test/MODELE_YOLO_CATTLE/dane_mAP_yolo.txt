@@ -1,0 +1,26 @@
+model, mAP50, mAP50:90;
+yolov5-5xlarge, 0.88101, 0.54487;
+yolov5-4large, 0.87186, 0.53163;
+yolov5-3medium, 0.86121, 0.51062;
+yolov5-2small, 0.82841, 0.44566;
+yolov5-1nano, 0.78526, 0.38408;
+
+yolov8-5xlarge, 0.8855, 0.54749;
+yolov8-4large, 0.88435, 0.53914;
+yolov8-3medium, 0.87189, 0.51576;
+yolov8-2small, 0.87066, 0.51402;
+yolov8-1nano, 0.83322, 0.47036;
+
+yolov11-5xlarge, 0.88532, 0.54488;
+yolov11-4large, 0.88454, 0.54771;
+yolov11-3medium, 0.88255, 0.53614;
+yolov11-2small, 0.87138, 0.51711;
+yolov11-1nano, 0.83622, 0.47066;
+
+yolov12-5xlarge, 0.88815, 0.54885;
+yolov12-4large, 0.88292, 0.54799;
+yolov12-3medium, 0.87485, 0.51983;
+yolov12-2small, 0.86322, 0.50632;
+yolov12-1nano, 0.83966, 0.47093;
+
+
